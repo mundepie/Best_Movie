@@ -48,6 +48,5 @@ Json Format:
 			"end_day":"28",
 			"end_month":"Feb"
 		}
-		
 	]
 }
