@@ -2,7 +2,7 @@
 
 Please send the data to the url: http://127.0.0.1:8000/info/
 
-Json Format:
+Dummy Json Format:
 {
 	"ok": true,
 	"members": [
